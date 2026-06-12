@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💧 EQUA
+# EQUA
 ### Smart Water Leak Detection & Conservation Platform
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue?style=flat-square)
