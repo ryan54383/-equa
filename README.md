@@ -115,16 +115,14 @@ equa/
 - MongoDB Atlas free account — [mongodb.com/atlas](https://mongodb.com/atlas)
 - Git
 
----
-
-### 1 · Clone the repo
+## 1 · Clone the repo
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/equa.git
 cd equa
 ```
 
-### 2 · Backend
+## 2 · Backend
 
 ```bash
 cd equa-backend
@@ -135,7 +133,7 @@ npm run dev
 # Running at http://localhost:5000
 ```
 
-### 3 · Frontend
+## 3 · Frontend
 
 ```bash
 cd equa-frontend
@@ -183,6 +181,6 @@ npm run dev
 
 <div align="center">
 
-Built with 💧 by the EQUA Team
+Built by Ryan Michael 
 
 </div>
